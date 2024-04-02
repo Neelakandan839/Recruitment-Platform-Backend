@@ -9,7 +9,7 @@ require("dotenv").config();
 // MongoDB mongodb://localhost:27017/jobPortal
 mongoose
   .connect(
-    "mongodb+srv://NK:nk123@cluster0.onale.mongodb.net/recruitment-portal?retryWrites=true&w=majority",
+    "mongodb+srv://NK:Neelakandan1804@@cluster1.snrzntk.mongodb.net/?retryWrites=true&w=majority&appName=Cluste1",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
